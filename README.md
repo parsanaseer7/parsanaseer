@@ -8,7 +8,7 @@ Hi 👋 I'm Parsa
 
 🌱 Currently Learning:
 
-    •Python
+    •C++ and Python
     •Git & GitHub
     •Data Structures
 
